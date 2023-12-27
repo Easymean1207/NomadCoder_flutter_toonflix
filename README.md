@@ -1,6 +1,16 @@
 # toonflix
 
-A new Flutter project.
+Flutter project(toonflix).
+
+Preview image
+
+- android emulator
+
+    <img src = "lib\assets\images\toonflix_emulator.png" width = 100px>
+
+- web
+
+    <img src = "lib\assets\images\toonflix_web.png" width = 100px>
 
 ## Getting Started
 
